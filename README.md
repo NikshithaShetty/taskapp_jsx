@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- //
+ 1. Created react app using : npx create-react-app task 
+ 2. Run it using : npm start
+ 3. Created new file "data fetch" inside components folder and imported it inside app.js
+ 4. Installed Axios  to make HTTP requests from HttpRequests from the browser : npm i axios
+ 5. Created function to fetch data using Axios Request With Async/Await .
+    To handle errors in a standard API call using Axios, we use a try...catch block.
+    Saved data to local storage. -->
